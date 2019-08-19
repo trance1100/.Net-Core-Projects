@@ -1,0 +1,7 @@
+C:\Users\Larri\source\repos\bank\bank\bin\Release\bank.exe.config
+C:\Users\Larri\source\repos\bank\bank\bin\Release\bank.exe
+C:\Users\Larri\source\repos\bank\bank\bin\Release\bank.pdb
+C:\Users\Larri\source\repos\bank\bank\obj\Release\bank.csprojAssemblyReference.cache
+C:\Users\Larri\source\repos\bank\bank\obj\Release\bank.csproj.CoreCompileInputs.cache
+C:\Users\Larri\source\repos\bank\bank\obj\Release\bank.exe
+C:\Users\Larri\source\repos\bank\bank\obj\Release\bank.pdb
